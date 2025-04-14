@@ -1,6 +1,7 @@
-# 🌟 Jose Rico | Streamlit Development & Deployment Services
+# Streamlit Development & Deployment Services
 
-Welcome to my GitHub portfolio! I’m **Jose Rico**, a dedicated **Streamlit Developer** committed to helping **students**, **businesses**, and **creators** turn their ideas into reality with interactive and data-driven web applications. Whether you're looking to build from scratch or need guidance deploying your app, I'm here to make the process seamless and efficient.
+Welcome to my Streamlit Developer repository. 
+I'm a dedicated **Streamlit Developer** committed to helping **students**, **businesses**, and **creators** turn their ideas into reality with interactive and data-driven web applications. Whether you're looking to build from scratch or need guidance deploying your app, I'm here to make the process seamless and efficient.
 
 ---
 
