@@ -34,7 +34,7 @@ Streamlit opens the door to turning data into dynamic web apps, and I’m passio
 - **User-Friendly Apps**: I focus on making apps intuitive and impactful.
 - **Deployment Support**: From troubleshooting to hosting, I’ll ensure your app goes live without a hitch.
 
-### 👉 Ready to bring your app to life? [Get in Touch](Pages/contact.html) today!
+### 👉 Ready to bring your app to life? [Get in Touch](https://josericodata.github.io/streamlit-developer/Pages/contact.html) today!
 
 ---
 
@@ -64,6 +64,8 @@ I’d love to help you build and deploy your app! Reach out to me:
 - **GitHub**: [josericodata](https://github.com/josericodata)
 - **LinkedIn**: [Jose Rico](https://www.linkedin.com/in/josericodata/)
 - **Streamlit Profile**: [My Projects](https://share.streamlit.io/user/josericodata)
+- **Portfolio**: [Website](https://josericodata.github.io/)
+- **YouTube**: [Website](https://www.youtube.com/@josericodata)
 
 ---
 
