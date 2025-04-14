@@ -65,7 +65,7 @@ I’d love to help you build and deploy your app! Reach out to me:
 - **LinkedIn**: [Jose Rico](https://www.linkedin.com/in/josericodata/)
 - **Streamlit Profile**: [My Projects](https://share.streamlit.io/user/josericodata)
 - **Portfolio**: [Website](https://josericodata.github.io/)
-- **YouTube**: [Website](https://www.youtube.com/@josericodata)
+- **YouTube**: [Overview](https://www.youtube.com/@josericodata)
 
 ---
 
